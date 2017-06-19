@@ -1,0 +1,3 @@
+global exception handler
+global_exception_filter generate plain traceback and exit
+ERROR: secondary crash, traceback already generated
